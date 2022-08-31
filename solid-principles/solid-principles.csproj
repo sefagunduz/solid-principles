@@ -8,4 +8,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="DependencyInversion\Bad\" />
+    <Folder Include="DependencyInversion\Good\" />
+  </ItemGroup>
+
 </Project>
