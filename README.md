@@ -1,4 +1,4 @@
-# solid-principles
+# Solid Principles
 
 ## The SOLID ideas are
 
