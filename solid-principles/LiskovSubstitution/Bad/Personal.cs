@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace solid_principles.LiskovSubstitution.Bad
+﻿namespace solid_principles.LiskovSubstitution.Bad
 {
     public class Personal : User
     {
